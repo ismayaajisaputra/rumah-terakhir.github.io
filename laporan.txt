@@ -1,0 +1,28 @@
+Latar Belakang
+Kemajuan teknologi komputer dalam segala bidang ilmu pengetahuan di kehidupan sehari-hari memang peranan yang cukup besar. 
+Komputer biasanya digunakan untuk menghasilkan atau membuat suatu informasi.
+Website merupakan salah satu aplikasi pada internet yang berupa iinformasi Hypertext, 
+dimana anda dapat membaca dan menelusuri informasi tersebut secara virtual tanpa terikat pada media tertentu. 
+Melalui website dapat memasarkkan produk atau jasa, mempromosikan suatu perusahaan, dan lain-lain.
+Berdasarkan itu penulis akan mencoba membuat tulisan ilmiah yang berjudul Pembuatan Website 
+Pemakaman "Muslim Funeral" sebagai sarana promosi dan pemesanan online. 
+Mulai dari penyediaan informasi tentang profil, tipe makam, dan segala hal yang berhubungan 
+dengan pemakaman ini.Pembuatan website ini bertujuan untuk mempermudah memberikan informasi tentang “Muslim Funeral".
+
+
+fitur yang kami tawarkan dalam web kami sebagai berikut
+Login: Memudahkan customer dalam pemesanan dan pembayaran
+cart: dapat memasukan apa saja kebutuhan yang diperlukan 
+tipe: memilih tipe apa yang diinginkan atau dipesan dan tersedia berbagai tipe
+	dapat memilih pada slot yang masih tersedia
+pembayaran: pembayaran otomatis akan muncul saat customer checkout dan tersedia berbagai macam metode pembayaran
+
+
+Menu di web kami
+Login: Untuk melihat profil kita dan informasi kita
+cart: untuk menampung apa saja yang kita pilih untuk dipesan
+pembayaran:akan menampilkan harga yang harus kita bayar
+metode pembayaran:
+tipe:menampilkan apa  saja yang kita tawarkan
+
+
